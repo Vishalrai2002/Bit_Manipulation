@@ -20,5 +20,12 @@ int main()
     if(n%4==3) cout<<0<<endl;    
 
 
+
+
+
+
+
+
+
     return 0;
 }
